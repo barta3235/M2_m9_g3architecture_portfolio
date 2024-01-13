@@ -245,7 +245,13 @@ main{
 
 
 
-
+footer{
+    
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color:rgba(255, 144, 14, 0.10);
+}
 
 
 
